@@ -229,7 +229,7 @@ for i in range(num_rows):
     for j in range(images_per_row):
         index = i * images_per_row + j
         if index < len(image_urls):
-            cols[j].image(image_urls[index], use_column_width=True, caption="")
+            cols[j].image(image_urls[index], use_column_width=True, caption="  ")
 
 
 
