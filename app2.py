@@ -202,16 +202,16 @@ st.markdown('''
 
 # List of image URLs
 image_urls = [
-    r"C:\Users\Admin\Desktop\Personal Work\Streamlit\CER\0.jpg",
-    r"C:\Users\Admin\Desktop\Personal Work\Streamlit\CER\1.jpg",
-    r"C:\Users\Admin\Desktop\Personal Work\Streamlit\CER\2.jpg",
-    r"C:\Users\Admin\Desktop\Personal Work\Streamlit\CER\3.jpg",
-    r"C:\Users\Admin\Desktop\Personal Work\Streamlit\CER\4.jpg",
-    r"C:\Users\Admin\Desktop\Personal Work\Streamlit\CER\5.jpg",
-    r"C:\Users\Admin\Desktop\Personal Work\Streamlit\CER\6.jpg",
-    r"C:\Users\Admin\Desktop\Personal Work\Streamlit\CER\7.jpg",
-    r"C:\Users\Admin\Desktop\Personal Work\Streamlit\CER\8.jpg",
-    r"C:\Users\Admin\Desktop\Personal Work\Streamlit\CER\9.jpg"
+    "\CER\0.jpg",
+    "\CER\1.jpg",
+    "\CER\2.jpg",
+    "\CER\3.jpg",
+    "\CER\4.jpg",
+    "\CER\5.jpg",
+    "\CER\6.jpg",
+    "\CER\7.jpg",
+    "\CER\8.jpg",
+    "\CER\9.jpg"
     # Add more image URLs as needed
 ]
 
