@@ -190,7 +190,8 @@ st.markdown('''
 ''')
 
 st.markdown('''
-- [Gold badge in Python and SQL on Hackerrank](https://www.hackerrank.com/sj47452)
+- [Gold badge in SQL on Hackerrank](https://www.hackerrank.com/sj47452)
+- [Gold badge in Python on Hackerrank](https://www.hackerrank.com/sj47452)
 - [Article on Machine Learning end-to-end on Medium](https://medium.com/@sj47452)
 - [Article on Data Visualization Basic to Advanced on Medium](https://medium.com/@sj47452)
 - [Article on PGAdmin4 and psql on Medium](https://medium.com/@sj47452)
@@ -211,7 +212,8 @@ image_urls = [
     "6.jpg",
     "7.jpg",
     "8.jpg",
-    "9.jpg"
+    "9.jpg",
+    "10.jpg"
     # Add more image URLs as needed
 ]
 
@@ -232,5 +234,17 @@ for i in range(num_rows):
             cols[j].image(image_urls[index], use_column_width=True, caption="  ")
 
 
+st.sidebar.write("Sumit Jadhav")
+st.sidebar.image('my_pic.png', width=170)
+
+st.sidebar.write("#Content")
+st.sidebar.write("1.Contact Details")
+st.sidebar.write("2.Summary")
+st.sidebar.write("3.Work Experience")
+st.sidebar.write("4.Internship")
+st.sidebar.write("5.Education")
+st.sidebar.write("6.Skills")
+st.sidebar.write("7.Achivements")
+st.sidebar.write("8.Certification")
 
 st_lottie(lottie_coding6,height=150,width=700,key="ty")
