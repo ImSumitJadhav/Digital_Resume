@@ -202,16 +202,16 @@ st.markdown('''
 
 # List of image URLs
 image_urls = [
-    "CER\0.jpg",
-    "CER\1.jpg",
-    "CER\2.jpg",
-    "CER\3.jpg",
-    "CER\4.jpg",
-    "CER\5.jpg",
-    "CER\6.jpg",
-    "CER\7.jpg",
-    "CER\8.jpg",
-    "CER\9.jpg"
+    "0.jpg",
+    "1.jpg",
+    "2.jpg",
+    "3.jpg",
+    "4.jpg",
+    "5.jpg",
+    "6.jpg",
+    "7.jpg",
+    "8.jpg",
+    "9.jpg"
     # Add more image URLs as needed
 ]
 
